@@ -22,5 +22,6 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 + Python[3.6.12]
 + Pytorch[1.7.1]
 # To run code
++ The command is [python AGCN.py --name [data_name]]. 
 + For examle, if u would like to run AGCN on the usps dataset, the command is as follows,
   + python AGCN.py --name usps

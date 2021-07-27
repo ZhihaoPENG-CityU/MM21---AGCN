@@ -1,10 +1,11 @@
 # Attention-driven Graph Clustering Network
-URL: 
+URL: [waiting for update]
 
 
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
 
 We appreciate it if you use this code and cite our paper, which can be cited as follows,
+[waiting for update]
 <!--
 > @ARTICLE{9455383, <br>
 >   author={Peng, Zhihao and Jia, Yuheng and Liu, Hui and Hou, Junhui and Zhang, Qingfu}, <br>

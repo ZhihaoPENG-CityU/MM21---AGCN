@@ -27,4 +27,4 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
   + python AGCN.py --name usps
 
 # Data
-<a>https://drive.google.com/drive/folders/1swVtlqQkLFEmu9l2QXEQS6Hmw20q0QTc?usp=sharing</a>
+As the limitation of Github, we share the data in [<a href="https://drive.google.com/drive/folders/1swVtlqQkLFEmu9l2QXEQS6Hmw20q0QTc?usp=sharing">here</a>].

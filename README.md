@@ -25,3 +25,6 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 + python AGCN.py --name [data_name]
 + For examle, if u would like to run AGCN on the usps dataset, the command is as follows,
   + python AGCN.py --name usps
+
+# Data
+<a>https://drive.google.com/drive/folders/1swVtlqQkLFEmu9l2QXEQS6Hmw20q0QTc?usp=sharing</a>

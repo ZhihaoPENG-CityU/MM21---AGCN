@@ -349,7 +349,7 @@ if __name__ == "__main__":
         parser = argparse.ArgumentParser(
             description='train',
             formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-        parser.add_argument('--name', type=str, default='reut')
+        parser.add_argument('--name', type=str, default='usps')
         parser.add_argument('--k', type=int, default=3)
         parser.add_argument('--lr', type=float, default=1e-3)
         parser.add_argument('--n_clusters', default=3, type=int)

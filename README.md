@@ -8,11 +8,12 @@ VIDEO: https://dl.acm.org/doi/abs/10.1145/3474085.3475276
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
 
 We appreciate it if you use this code and cite our paper, which can be cited as follows,
-> @article{peng2021attention, <br>
->   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui}, <br>
->   journal={arXiv preprint arXiv:2108.05499},  <br>
->   title={Attention-driven Graph Clustering Network},  <br>
->   doi={10.1145/3474085.3475276} <br>
+> @inproceedings{peng2021attention, <br>
+>   title={Attention-driven Graph Clustering Network}, <br>
+>   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
+>   booktitle={Proceedings of the 29th ACM International Conference on Multimedia},  <br>
+>   pages={935--943}, <br>
+>   year={2021}
 > } <br>
 
 # Environment
@@ -25,7 +26,7 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 
 # To run code
 + python AGCN.py --name [data_name]
-+ For examle, if u would like to run AGCN on the usps dataset, the command is as follows,
++ For examle, if u would like to run AGCN on the usps dataset, u need to set the hyperparameters and then run the following command,
   + python AGCN.py --name usps
 
 # Data

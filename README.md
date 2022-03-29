@@ -26,7 +26,7 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 
 # To run code
 + python AGCN.py --name [data_name]
-+ For examle, if u would like to run AGCN on the usps dataset, u need to set the hyperparameters and then run the following command,
++ For examle, if u would like to run AGCN on the usps dataset, u need to set the hyperparameters mentioned above and then run the following command,
   + python AGCN.py --name usps
 
 # Data

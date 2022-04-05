@@ -32,4 +32,4 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 * then run the command "python AGCN.py --name usps"
 
 # Data
-Due to the limitation of GitHub, we share the data in [<a href="https://drive.google.com/drive/folders/1swVtlqQkLFEmu9l2QXEQS6Hmw20q0QTc?usp=sharing">here</a>].
+Due to the limitation of GitHub, we share the data in [<a href="https://drive.google.com/drive/folders/1D_kH2loUTH6fHfdwnVElUHVw1kHfflVV?usp=sharing">here</a>].

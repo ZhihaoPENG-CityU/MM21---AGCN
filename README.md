@@ -4,8 +4,8 @@
 [stars-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/stargazers
 [fork-img]: https://img.shields.io/github/forks/ZhihaoPENG-CityU/MM21---AGCN?color=lightblue&label=fork
 [fork-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/network/members
-[visitors-img]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/watchers
-[adgc-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/watchers
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ZhihaoPENG-CityU.MM21---AGCN
+[adgc-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]

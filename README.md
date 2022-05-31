@@ -1,15 +1,19 @@
 # Attention-driven Graph Clustering Network
 
+[python-img]: https://img.shields.io/github/languages/top/ZhihaoPENG-CityU/MM21---AGCN?color=lightgrey
 [stars-img]: https://img.shields.io/github/stars/ZhihaoPENG-CityU/MM21---AGCN?color=yellow
 [stars-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/stargazers
 [fork-img]: https://img.shields.io/github/forks/ZhihaoPENG-CityU/MM21---AGCN?color=lightblue&label=fork
 [fork-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/network/members
 [visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ZhihaoPENG-CityU.MM21---AGCN
-[adgc-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN
+[agcn-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN
 
+[![Made with Python][python-img]][agcn-url]
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+[![visitors][visitors-img]][agcn-url]
+
+
 
 DOI: 10.1145/3474085.3475276
 

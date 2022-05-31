@@ -1,4 +1,16 @@
 # Attention-driven Graph Clustering Network
+
+[stars-img]: https://img.shields.io/github/stars/ZhihaoPENG-CityU/MM21---AGCN?color=yellow
+[stars-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/stargazers
+[fork-img]: https://img.shields.io/github/forks/ZhihaoPENG-CityU/MM21---AGCN?color=lightblue&label=fork
+[fork-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/network/members
+[visitors-img]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/watchers
+[adgc-url]: https://github.com/ZhihaoPENG-CityU/MM21---AGCN/watchers
+
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+[![visitors][visitors-img]][adgc-url]
+
 DOI: 10.1145/3474085.3475276
 
 URL: https://dl.acm.org/doi/abs/10.1145/3474085.3475276

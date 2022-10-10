@@ -49,8 +49,10 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 
 # Evaluation
 + evaluation.py
++ 
 The commonly used clustering metrics, such as acc, nmi, ari, and f1, etc.
 + get_net_par_num.py
++ 
 Get the network parameters by `print(num_net_parameter(model))', where model is the designed network.
 
 # Data

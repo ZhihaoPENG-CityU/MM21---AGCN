@@ -47,5 +47,9 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 * first set {1000, 1000} for USPS;
 * then run the command "python AGCN.py --name usps"
 
+# Evaluation
++ evaluation.py: The commonly used clustering metrics, such as acc,nmi,ari,f1, etc.
++ get_net_par_num.py: Get the network parameters by `print(num_net_parameter(model))', where model is the designed network.
+
 # Data
 Due to the limitation of GitHub, we share the data in [<a href="https://drive.google.com/drive/folders/1D_kH2loUTH6fHfdwnVElUHVw1kHfflVV?usp=sharing">here</a>].

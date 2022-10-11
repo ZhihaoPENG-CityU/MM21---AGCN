@@ -20,6 +20,7 @@ from sklearn.cluster import KMeans
 from sklearn import metrics
 from sklearn.metrics.cluster import normalized_mutual_info_score as nmi_score
 from sklearn.metrics import adjusted_rand_score as ari_score
+from get_net_par_num import num_net_parameter
 
 tic = time.time()
 TIMESTAMP = "{0:%Y-%m-%dT%H-%M-%S/}".format(datetime.now())
@@ -206,6 +207,9 @@ def train_AGCN(dataset):
                         n_z=args.n_z,
                         n_clusters=args.n_clusters,
                         v=1.0).cuda()
+
+            # Get the network parameters
+            print(num_net_parameter(model))
 
             optimizer = Adam(model.parameters(), lr=args.lr)
 

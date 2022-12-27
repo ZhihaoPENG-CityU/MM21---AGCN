@@ -21,14 +21,28 @@ URL: https://dl.acm.org/doi/abs/10.1145/3474085.3475276
 
 VIDEO: https://dl.acm.org/doi/abs/10.1145/3474085.3475276 
 
-We have added comments in the code, the specific details can correspond to the explanation in the paper.
+We have added comments in the code, and the specific details can correspond to the explanation in the paper. Please get in touch with me (zhihapeng3-c@my.cityu.edu.hk) if you have any issues.
 
-We appreciate it if you use this code and cite our paper, which can be cited as follows,
+We appreciate it if you use this code and cite our related papers, which can be cited as follows,
+> @article{peng2021deep, <br>
+>   title={Deep Attention-guided Graph Clustering with Dual Self-supervision}, <br>
+>   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
+>   journal={arXiv preprint arXiv:2111.05548},  <br>
+>   year={2021}
+> } <br>
+
+> @article{peng2022graph, <br>
+>   title={Graph Augmentation Clustering Network}, <br>
+>   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
+>   journal={arXiv preprint arXiv:2211.10627}, <br>
+>   year={2022}
+> } <br>
+
 > @inproceedings{peng2021attention, <br>
->   title={Attention-driven Graph Clustering Network}, <br>
+>   title={Attention-driven graph clustering network}, <br>
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
 >   booktitle={Proceedings of the 29th ACM International Conference on Multimedia},  <br>
->   pages={935--943}, <br>
+>   pages={935--943},  <br>
 >   year={2021}
 > } <br>
 

@@ -71,3 +71,8 @@ Get the network parameters by `print(num_net_parameter(model))', where model is 
 
 # Data
 Due to the limitation of GitHub, we share the data in [<a href="https://drive.google.com/drive/folders/1D_kH2loUTH6fHfdwnVElUHVw1kHfflVV?usp=sharing">here</a>].
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ZhihaoPENG-CityU/MM21---AGCN&type=Date)](https://star-history.com/#ZhihaoPENG-CityU/MM21---AGCN&Date)

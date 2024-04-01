@@ -24,18 +24,23 @@ VIDEO: https://dl.acm.org/doi/abs/10.1145/3474085.3475276
 We have added comments in the code, and the specific details can correspond to the explanation in the paper. Please get in touch with me (zhihapeng3-c@my.cityu.edu.hk) if you have any issues.
 
 We appreciate it if you use this code and cite our related papers, which can be cited as follows,
-> @article{peng2021deep, <br>
->   title={Deep Attention-guided Graph Clustering with Dual Self-supervision}, <br>
+
+> @article{peng2023egrc, <br>
+>   title={EGRC-Net: Embedding-Induced Graph Refinement Clustering Network}, <br>
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
->   journal={arXiv preprint arXiv:2111.05548},  <br>
->   year={2021}
+>   journal={IEEE Transactions on Image Processing}, <br>
+>   volume={32}, <br>
+>   pages={6457--6468}, <br>
+>   year={2023}, <br>
+>   publisher={IEEE}
 > } <br>
 
-> @article{peng2022graph, <br>
->   title={Graph Augmentation Clustering Network}, <br>
+> @article{peng2022deep, <br>
+>   title={Deep Attention-guided Graph Clustering with Dual Self-supervision}, <br>
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
->   journal={arXiv preprint arXiv:2211.10627}, <br>
->   year={2022}
+>   journal={IEEE Transactions on Circuits and Systems for Video Technology},  <br>
+>   year={2022}, <br>
+>   publisher={IEEE}
 > } <br>
 
 > @inproceedings{peng2021attention, <br>
